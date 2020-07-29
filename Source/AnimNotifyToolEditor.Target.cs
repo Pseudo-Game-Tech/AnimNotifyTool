@@ -8,7 +8,7 @@ public class AnimNotifyToolEditorTarget : TargetRules
 	public AnimNotifyToolEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		//DefaultBuildSettings = BuildSettingsVersion.V2;
 		ExtraModuleNames.Add("AnimNotifyTool");
 	}
 }

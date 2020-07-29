@@ -4,6 +4,7 @@
 #include "EditorFontGlyphs.h"
 #include "EditorStyleSet.h"
 #include "IContentBrowserSingleton.h"
+#include "IIntroTutorials.h"
 #include "IStructureDetailsView.h"
 #include "PropertyCustomizationHelpers.h"
 #include "SlateOptMacros.h"
@@ -125,7 +126,7 @@ void SAnimNotifyReferenceView::Construct(const FArguments& InArgs, const TShared
         .Orientation(Orient_Horizontal)
         
         + SSplitter::Slot()
-        .Value(0.4f)
+        .Value(0.3f)
         [
             SNew(SBorder)
             .BorderImage(FEditorStyle::GetBrush("ToolPanel.DarkGroupBorder"))
@@ -144,6 +145,7 @@ void SAnimNotifyReferenceView::Construct(const FArguments& InArgs, const TShared
                 .Padding( 5.0f )
                 [
                      SNew(SBorder)
+                     .AddMetaData<FTagMetaData>(TEXT("筛选设置窗口"))
                      .BorderImage(FEditorStyle::GetBrush( "DetailsView.CategoryTop" ))
                     [
                         SAssignNew(ListViewWidget_AnimNotifyClass, SListView<TSharedPtr<FAnimNotifyClassInfo>>)
@@ -155,7 +157,7 @@ void SAnimNotifyReferenceView::Construct(const FArguments& InArgs, const TShared
         ]
         
         + SSplitter::Slot()
-        .Value(0.3f)
+        .Value(0.2f)
         [
             SNew(SBorder)
             .BorderImage(FEditorStyle::GetBrush("ToolPanel.DarkGroupBorder"))
@@ -172,37 +174,81 @@ void SAnimNotifyReferenceView::Construct(const FArguments& InArgs, const TShared
                     .BorderImage(FEditorStyle::GetBrush("DetailsView.CategoryTop"))
                     .Padding( 5.0f )
                     [
-                        SNew(SButton)
-					    .AddMetaData<FTagMetaData>(FTagMetaData(TEXT("Actor.ConvertToBlueprint")))
-					    .OnClicked(this, &SAnimNotifyReferenceView::OnUpdateFilterAnim)
-					    .ButtonStyle(FEditorStyle::Get(), "FlatButton.Success")
-					    .ContentPadding(FMargin(10,0))
-					    .ToolTipText(LOCTEXT("OnUpdateFilterAnimTip", "根据左边窗口的搜索路径和筛选条件查找动画片段"))
-					    [
-					    	SNew(SHorizontalBox)
-					    	.Clipping(EWidgetClipping::ClipToBounds)
-					    	
-					    	+ SHorizontalBox::Slot()
-					    	.VAlign(VAlign_Center)
-					    	.Padding(3.f)
-					    	.AutoWidth()
-					    	[
-					    		SNew(STextBlock)
-					    		.TextStyle(FEditorStyle::Get(), "ContentBrowser.TopBar.Font")
-					    		.Font( FEditorStyle::Get().GetFontStyle( "FontAwesome.10" ) )
-					    		.Text( FEditorFontGlyphs::Cogs )
-					    	]
-    
-					    	+ SHorizontalBox::Slot()
-					    	.VAlign(VAlign_Center)
-					    	.Padding(3.f)
-					    	.AutoWidth()
-					    	[
-					    		SNew(STextBlock)
-					    		.TextStyle(FEditorStyle::Get(), "ContentBrowser.TopBar.Font")
-					    		.Text(LOCTEXT("OnUpdateFilterAnim", "刷新"))
-					    	]
-					    ]
+                        SNew(SHorizontalBox)
+                        +SHorizontalBox::Slot()
+                        .Padding(0.f, 0.f, 2.5f, 0.f)
+                        [
+                            SNew(SButton)
+                            .AddMetaData<FTagMetaData>(TEXT("搜索按钮"))
+					        .OnClicked(this, &SAnimNotifyReferenceView::OnUpdateFilterAnim)
+					        .ButtonStyle(FEditorStyle::Get(), "FlatButton.Success")
+					        .ContentPadding(FMargin(10,0))
+					        .ToolTipText(LOCTEXT("OnUpdateFilterAnimTip", "根据左边窗口的搜索路径和筛选条件查找动画片段"))
+					        [
+					        	SNew(SHorizontalBox)
+					        	.Clipping(EWidgetClipping::ClipToBounds)
+					        	
+					        	+ SHorizontalBox::Slot()
+					        	.VAlign(VAlign_Center)
+					        	.Padding(3.f)
+					        	.AutoWidth()
+					        	[
+					        		SNew(STextBlock)
+					        		.TextStyle(FEditorStyle::Get(), "ContentBrowser.TopBar.Font")
+					        		.Font( FEditorStyle::Get().GetFontStyle( "FontAwesome.10" ) )
+					        		.Text( FEditorFontGlyphs::Cogs )
+					        	]
+        
+					        	+ SHorizontalBox::Slot()
+					        	.VAlign(VAlign_Center)
+					        	.Padding(3.f)
+					        	.AutoWidth()
+					        	[
+					        		SNew(STextBlock)
+					        		.TextStyle(FEditorStyle::Get(), "ContentBrowser.TopBar.Font")
+					        		.Text(LOCTEXT("OnUpdateFilterAnim", "搜索"))
+					        	]
+					        ]
+                        ]
+
+                        +SHorizontalBox::Slot()
+                        .Padding(2.5f, 0.f, 0.f, 0.f)
+                        [
+                            SNew(SButton)
+                            .OnClicked(FOnClicked::CreateLambda([]() -> FReply
+                            {
+                                IIntroTutorials::Get().LaunchTutorial(TEXT("/AnimNotifyReferenceView/AnimNotifyReferenceView_TUtorial"));
+                                return FReply::Handled();
+                            }))
+                            .ButtonStyle(FEditorStyle::Get(), "FlatButton.Danger")
+                            .ContentPadding(FMargin(10,0))
+                            .ToolTipText(LOCTEXT("TutorialTip", "使用教程"))
+                            [
+                                SNew(SHorizontalBox)
+                                .Clipping(EWidgetClipping::ClipToBounds)
+					        	
+                                + SHorizontalBox::Slot()
+                                .VAlign(VAlign_Center)
+                                .Padding(3.f)
+                                .AutoWidth()
+                                [
+                                    SNew(STextBlock)
+                                    .TextStyle(FEditorStyle::Get(), "ContentBrowser.TopBar.Font")
+                                    .Font( FEditorStyle::Get().GetFontStyle( "FontAwesome.10" ) )
+                                    .Text( FEditorFontGlyphs::Cogs )
+                                ]
+        
+                                + SHorizontalBox::Slot()
+                                .VAlign(VAlign_Center)
+                                .Padding(3.f)
+                                .AutoWidth()
+                                [
+                                    SNew(STextBlock)
+                                    .TextStyle(FEditorStyle::Get(), "ContentBrowser.TopBar.Font")
+                                    .Text(LOCTEXT("Tutorial", "教程"))
+                                ]
+                            ]
+                        ]
                     ]
                 ]
 
@@ -211,6 +257,7 @@ void SAnimNotifyReferenceView::Construct(const FArguments& InArgs, const TShared
                 .Padding( 5.0f )
                 [
                     SNew(SBorder)
+                    .AddMetaData<FTagMetaData>(TEXT("搜索结果窗口"))
                     .BorderImage(FEditorStyle::GetBrush("DetailsView.CategoryTop"))
                     .Padding( 5.0f )
                     [
@@ -221,9 +268,10 @@ void SAnimNotifyReferenceView::Construct(const FArguments& InArgs, const TShared
         ]
         
         + SSplitter::Slot()
-        .Value(0.3f)
+        .Value(0.5f)
         [
             SNew(SBorder)
+            .AddMetaData<FTagMetaData>(TEXT("概览窗口"))
             .BorderImage(FEditorStyle::GetBrush("ToolPanel.DarkGroupBorder"))
             .Padding( 10.0f )
             [

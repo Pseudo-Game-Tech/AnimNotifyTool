@@ -1,4 +1,6 @@
 #include "AnimNotifyReferenceView.h"
+
+#include "EditorStyleSet.h"
 #include "SAnimNotifyReferenceView.h"
 #include "WorkspaceMenuStructure.h"
 #include "WorkspaceMenuStructureModule.h"
@@ -12,7 +14,6 @@ void FAnimNotifyReferenceViewModule::StartupModule()
         const TSharedRef<SDockTab> Tab = SNew(SDockTab).TabRole(ETabRole::NomadTab);
         TSharedPtr<SWidget> TabContent= SNew(SAnimNotifyReferenceView, Tab, Args.GetOwnerWindow());
 
-		Tab->SetDesiredSizeScale(FVector2D(2.f, 2.f));
         Tab->SetContent(TabContent.ToSharedRef());
 
         return Tab;

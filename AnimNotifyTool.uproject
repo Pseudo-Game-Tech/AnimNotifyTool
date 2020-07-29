@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.25",
+	"EngineAssociation": "8406fc73f49d938b56db4ee47e379b16b961c96d",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -8,6 +8,12 @@
 			"Name": "AnimNotifyTool",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "RiderLink",
+			"Enabled": true
 		}
 	]
 }

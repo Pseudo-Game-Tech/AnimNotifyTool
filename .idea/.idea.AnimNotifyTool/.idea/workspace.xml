@@ -3,31 +3,209 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="58f6b739-d662-4586-9549-5bc740803fac" name="Default Changelist" comment="" />
+    <list default="true" id="58f6b739-d662-4586-9549-5bc740803fac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Content/AnimNotifyReferenceView_TUtorial.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AnimNotifyTool/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AnimNotifyTool/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AnimNotifyTool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AnimNotifyTool/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AnimNotifyTool/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AnimNotifyTool/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnimNotifyTool.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/AnimNotifyTool.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonIdle.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Mannequin/Animations/ThirdPersonIdle.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/AnimNotifyReferenceView.uplugin" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/AnimNotifyReferenceView.uplugin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/AnimNotifyReferenceView.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/AnimNotifyReferenceView.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/SAnimNotifyReferenceView.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/SAnimNotifyReferenceView.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/AnimNotifyTool.Target.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AnimNotifyTool.Target.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/AnimNotifyToolEditor.Target.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/AnimNotifyToolEditor.Target.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/InputCore/Private/InputCoreTypes.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Public/Widgets/Layout/SBorder.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/IntroTutorials/Private/IntroTutorials.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Core/Private/HAL/FileManagerGeneric.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/SlateCore/Private/SlotBase.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Runtime/Analytics/Apsalar/Source/ApsalarEditor/Private/ApsalarEditor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/UnrealEd/Classes/Factories/Experimental/ChaosPhysicalMaterialFactory.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Core/Public/Modules/ModuleManager.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Private/Widgets/Docking/SDockTab.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Public/Widgets/Docking/SDockTab.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/IntroTutorials/Private/ClassTypeActions_EditorTutorial.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/LevelEditor/Private/SLevelEditorBuildAndSubmit.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/IntroTutorials/Private/EditorTutorialImportFactory.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Source/NetcodeUnitTest/Public/UI/SLogWindow.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/IntroTutorials/Private/TutorialStructCustomization.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/IntroTutorials/Private/EditorTutorialImportFactory.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/AlembicImporter/Source/ThirdParty/Alembic/hdf5/c++/examples/h5tutr_rdwt.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/AlembicImporter/Source/ThirdParty/Eigen/Eigen/src/SparseQR/SparseQR.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Core/Private/HAL/PlatformFileManager.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/ProxyLODPlugin/Source/ThirdParty/boost/spirit/home/support/algorithm/any_if_ns_so.hpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/InputCore/Classes/InputCoreTypes.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Messaging/MessagingDebugger/Source/MessagingDebugger/Private/MessagingDebuggerModule.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/UnrealEd/Private/Toolkits/AssetEditorToolkit.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/LevelEditor/Private/LevelEditor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/InputCore/Private/InputCoreTypes.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/SlateCore/Public/SlotBase.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Animation/LiveLink/Source/LiveLinkEditor/Private/LiveLinkEditorModule.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Source/ConcertSyncClient/Private/ConcertClientPackageManager.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/FoliageEdit/Private/SFoliagePalette.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/FoliageEdit/Private/SFoliageEdit.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/Blutility/Private/BlutilityMenuExtensions.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Developer/Concert/ConcertFrontend/Source/ConcertFrontend/Private/ConcertFrontendModule.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/ProxyLODPlugin/Source/ThirdParty/boost/process/extend.hpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/UnrealEd/Private/Toolkits/AssetEditorToolkit.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Public/Framework/Application/SlateUser.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Developer/CollisionAnalyzer/Private/CollisionAnalyzerModule.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Editor/GameplayTagsEditor/Source/GameplayTagsEditor/Private/SGameplayTagWidget.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Developer/Concert/ConcertFrontend/Source/ConcertFrontend/Private/Widgets/SConcertScrollBox.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Enterprise/LidarPointCloud/Shaders/Private/LidarPointCloudVertexFactory.ush" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/ProxyLODPlugin/Source/ThirdParty/boost/numeric/odeint/integrate/detail/integrate_const.hpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/PropertyEditor/Public/DetailWidgetRow.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Editor/FacialAnimation/Source/FacialAnimationEditor/Private/FacialAnimationEditorModule.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Runtime/Slate/Private/Framework/Docking/SDockingTabStack.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/MaterialEditor/Private/MaterialEditorModule.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Shaders/Private/PostProcessAmbientOcclusion.usf" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/GraphEditor/Public/SGraphPanel.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Developer/MessageLog/Private/UserInterface/SMessageLogMessageListRow.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/ProxyLODPlugin/Source/ThirdParty/boost/compute/interop/vtk/bounds.hpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Compositing/Composure/Source/ComposureLayersEditor/Private/Widgets/SCompElementPreviewPane.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Runtime/AR/Microsoft/AzureSpatialAnchors/Source/AzureSpatialAnchors/Public/AzureCloudSpatialAnchor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Runtime/SlateCore/Public/Types/ISlateMetaData.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Editor/AssetManagerEditor/Source/AssetManagerEditor/Private/AssetManagerEditorModule.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Importers/Experimental/RemoteImport/Source/RemoteImportLibrary/Public/RemoteImportLibrary.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/AnimNotifyReferenceView.Build.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Projects/Public/ModuleDescriptor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/UnrealEd/Private/SViewportToolBarIconMenu.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Public/AnimNotifyReferenceView.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Public/Framework/Docking/TabManager.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/InputCore/Classes/InputCoreTypes.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Public/Framework/Docking/WorkspaceItem.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/SAnimNotifyReferenceView.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/SAnimNotifyReferenceView.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Compositing/Composure/Source/ComposureLayersEditor/Private/Widgets/SCompElementPreviewDialog.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Importers/Experimental/RemoteImport/Source/RemoteImportLibrary/Private/RemoteImportLibrary.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Public/Widgets/Input/SMenuAnchor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/FoliageEdit/Private/SFoliageEdit.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/KismetWidgets/Private/SLevelOfDetailBranchNode.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/GraphEditor/Public/SNodePanel.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/ProxyLODPlugin/Source/ThirdParty/boost/contract/destructor.hpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/ProxyLODPlugin/Source/ThirdParty/boost/contract/public_function.hpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/ProxyLODPlugin/Source/ThirdParty/boost/contract/core/exception.hpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Core/Private/Windows/WindowsPlatformFile.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Runtime/Slate/Public/Widgets/Input/SButton.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Private/Widgets/Input/SMenuAnchor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/SlateRHIRenderer/Private/SlateRHIResourceManager.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/UMGEditor/Private/Hierarchy/SHierarchyViewItem.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Runtime/Analytics/Apsalar/Source/ApsalarEditor/Private/ApsalarEditor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Core/Private/Windows/WindowsPlatformProcess.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/2D/Paper2D/Source/Paper2DEditor/Private/TileMapEditing/EdModeTileMap.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/PropertyEditor/Private/DetailItemNode.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/InputBindingEditor/Private/Widgets/SChordEditBox.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Experimental/DigitalMultiplex/DMXEngine/Source/DMXEditor/Public/Widgets/SAssetPickerButton.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Online/OnlineFramework/Source/Party/Public/Party/PartyTypes.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/ControlRig/Source/ControlRigEditor/Private/Sequencer/ControlRigSequenceExporter.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/PropertyEditor/Private/SDetailSingleItemRow.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Editor/AssetManagerEditor/Source/AssetManagerEditor/Private/SAssetAuditBrowser.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/GraphEditor/Private/SGraphEditorImpl.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Compositing/Composure/Source/ComposureLayersEditor/Private/Widgets/SCompElementPickerWindow.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Experimental/ProxyLODPlugin/Source/ProxyLOD/Private/ProxyLODMaterialTransferUtilities.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncTest/Source/ConcertSyncTest/Private/ConcertDataStoreTests.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/FX/Niagara/Source/NiagaraEditor/Private/Customizations/NiagaraPlatformSetCustomization.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Public/Widgets/Layout/SBorder.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/GraphEditor/Private/SGraphEditorImpl.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/UnrealEd/Public/SViewportToolBar.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Core/Private/Misc/Paths.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/IntroTutorials/Private/IntroTutorials.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Runtime/Slate/Public/Widgets/Docking/SDockTab.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Private/Widgets/Docking/SDockTab.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Public/Widgets/Docking/SDockTab.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Public/Widgets/Navigation/SBreadcrumbTrail.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Core/Private/Misc/FileHelper.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/Sequencer/Private/Sequencer.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Public/OnlineBeaconHost.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Compositing/OpenColorIO/Source/OpenColorIOEditor/Private/OpenColorIOColorSpaceConversionCustomization.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/LevelEditor/Private/LevelEditor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Core/Public/GenericPlatform/GenericPlatformFile.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Runtime/Projects/Public/ModuleDescriptor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/MovieScene/LevelSequenceEditor/Source/LevelSequenceEditor/Private/LevelSequenceEditorToolkit.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/IntroTutorials/Private/IntroTutorials.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/IntroTutorials/Private/STutorialButton.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Shaders/Private/DiaphragmDOF/DOFSetup.usf" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/MoviePlayer/Private/MoviePlayer.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Runtime/Engine/Classes/Animation/AnimNotifies/AnimNotify.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Editor/GameplayTagsEditor/Source/GameplayTagsEditor/Private/GameplayTagContainerCustomization.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Enterprise/DatasmithFBXImporter/Source/DatasmithFBXTranslator/Public/DatasmithFBXHashUtils.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Experimental/DigitalMultiplex/DMXEngine/Source/DMXEditor/Private/Widgets/Common/SSpinBoxVertical.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Core/Public/Math/TransformNonVectorized.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Editor/PluginBrowser/Source/PluginBrowser/Private/PluginBrowserModule.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/Persona/Private/SAnimationSequenceBrowser.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/Kismet/Private/SBlueprintFavoritesPalette.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Source/Editor/IntroTutorials/Private/STutorialButton.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/FX/Niagara/Source/NiagaraEditor/Private/Widgets/SNiagaraGraphNodeWriteDataSet.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/AlembicImporter/Source/ThirdParty/Alembic/openexr/IlmBase/Iex/IexBaseExc.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Renderer/Private/PathTracing/PathTracingTestbed.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/PhysicsAssetEditor/Private/PhysicsAssetGraph/SPhysicsAssetGraph.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/ProxyLODPlugin/Source/ThirdParty/boost/hana/fwd/type.hpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/FX/Niagara/Source/NiagaraEditor/Private/Widgets/SNiagaraGraphNodeCustomHlsl.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Private/Framework/Docking/SDockingTabStack.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/UnrealEd/Public/SEditorViewportToolBarMenu.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/PropertyEditor/Private/SDetailSingleItemRow.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Online/OnlineFramework/Source/Hotfix/Private/UpdateManager.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/Persona/Private/SAnimNotifyPanel.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/TextureEditor/Private/Widgets/STextureEditorViewportToolbar.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/SlateCore/Public/Widgets/SPanel.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/IntroTutorials/Public/EditorTutorial.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/FX/Niagara/Source/NiagaraEditor/Private/Widgets/SNiagaraGraphNodeInput.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Editor/PluginBrowser/Source/PluginBrowser/Private/SPluginBrowser.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Compositing/OpenCVLensDistortion/Source/ThirdParty/OpenCV/include/opencv2/dnn/all_layers.hpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/IntroTutorials/Public/IIntroTutorials.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Core/Public/HAL/FileManager.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Experimental/ProxyLODPlugin/Source/ThirdParty/boost/date_time/locale_config.hpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/SlateCore/Public/Widgets/DeclarativeSyntaxSupport.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/MovieSceneTools/Private/TrackEditors/FadeTrackEditor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/work_C/CS3_UE4.22.3/Engine/Windows/Engine/Plugins/Runtime/Oculus/OculusVR/Source/OculusEditor/Private/OculusEditorModule.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Core/Public/HAL/FileManagerGeneric.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Source/ConcertSyncUI/Private/SConcertSessionActivities.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/DataTableEditor/Private/DataTableEditor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Engine/Private/World.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Editor/CurveEditorTools/Source/CurveEditorTools/Private/Tools/CurveEditorRetimeTool.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Public/Framework/Docking/TabManager.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/IntroTutorials/Private/IntroTutorials.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/Animation/LiveLink/Source/LiveLink/Private/LiveLinkSubject.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/UMG/Private/Slate/WidgetRenderer.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/DataTableEditor/Private/DataTableEditor.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/IntroTutorials/Private/EditorTutorial.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Private/Framework/MultiBox/SMenuEntryBlock.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/Slate/Public/Framework/Docking/WorkspaceItem.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Plugins/FX/Niagara/Source/NiagaraEditorWidgets/Private/NiagaraStackCommandContext.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/SAnimNotifyReferenceView.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/VREditor/UI/VREditorUISystem.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/SAnimNotifyReferenceView.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Runtime/RenderCore/Private/ShaderPipelineCache.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/AnimNotifyReferenceView.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://E:/work_D/UE_4.25/Engine/Source/Editor/IntroTutorials/Private/TutorialText.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -35,9 +213,9 @@
         <option value="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Public/AnimNotifyReferenceView.h" />
         <option value="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/AnimNotifyReferenceView.Build.cs" />
         <option value="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/SAnimNotifyReferenceView.h" />
+        <option value="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/SAnimNotifyReferenceView.cpp" />
         <option value="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/AnimNotifyReferenceView.uplugin" />
         <option value="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/AnimNotifyReferenceView.cpp" />
-        <option value="$PROJECT_DIR$/Plugins/AnimNotifyReferenceView/Source/AnimNotifyReferenceView/Private/SAnimNotifyReferenceView.cpp" />
       </list>
     </option>
   </component>
@@ -47,6 +225,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3501355" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.300271" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
@@ -273,13 +454,98 @@
       <option name="presentableId" value="Default" />
       <updated>1595903802225</updated>
       <workItem from="1595903848153" duration="4584000" />
+      <workItem from="1595909587086" duration="5889000" />
+      <workItem from="1595925251753" duration="2000" />
+      <workItem from="1595925300097" duration="207000" />
+      <workItem from="1595926910499" duration="598000" />
+      <workItem from="1595983695555" duration="1265000" />
+      <workItem from="1595984981181" duration="1033000" />
+      <workItem from="1595986169026" duration="418000" />
+      <workItem from="1595986853063" duration="3434000" />
+      <workItem from="1595991396175" duration="2081000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1876" height="369" key="GridCell.Tab.0.bottom" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.0.center" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.0.left" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.0.right" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.1.bottom" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.1.center" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.1.left" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.1.right" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.2.bottom" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.2.center" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.2.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.2.left" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.2.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.2.right" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.2.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.3.bottom" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.3.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.3.center" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.3.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.3.left" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.3.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
+    <state width="1876" height="369" key="GridCell.Tab.3.right" timestamp="1595993480395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="369" key="GridCell.Tab.3.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595993480395" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1595905035715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -288,13 +554,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595904952725" />
-    <state x="633" y="252" width="671" height="536" key="find.popup" timestamp="1595905853799">
+    <state x="-1138" y="257" width="1006" height="536" key="find.popup" timestamp="1595992938022">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1138" y="257" width="1006" height="536" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595992938022" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595992899779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="633" y="252" width="671" height="536" key="find.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595905853799" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595906090024">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595906090024" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595992899779" />
   </component>
 </project>

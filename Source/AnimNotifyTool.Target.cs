@@ -8,7 +8,7 @@ public class AnimNotifyToolTarget : TargetRules
 	public AnimNotifyToolTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		//DefaultBuildSettings = BuildSettingsVersion.V2;
 		ExtraModuleNames.Add("AnimNotifyTool");
 	}
 }
